@@ -1,0 +1,367 @@
+{
+  "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/compare/d03c152482169d809be9b1eab71dcf64d7405f76...42cfd732b20cd093534f246e630b309186eb485d",
+  "html_url": "https://github.com/scott-fleischman/repo-remove-submodule/compare/d03c152482169d809be9b1eab71dcf64d7405f76...42cfd732b20cd093534f246e630b309186eb485d",
+  "permalink_url": "https://github.com/scott-fleischman/repo-remove-submodule/compare/scott-fleischman:d03c152...scott-fleischman:42cfd73",
+  "diff_url": "https://github.com/scott-fleischman/repo-remove-submodule/compare/d03c152482169d809be9b1eab71dcf64d7405f76...42cfd732b20cd093534f246e630b309186eb485d.diff",
+  "patch_url": "https://github.com/scott-fleischman/repo-remove-submodule/compare/d03c152482169d809be9b1eab71dcf64d7405f76...42cfd732b20cd093534f246e630b309186eb485d.patch",
+  "base_commit": {
+    "sha": "d03c152482169d809be9b1eab71dcf64d7405f76",
+    "node_id": "MDY6Q29tbWl0MTU1Mjk3NDQ3OmQwM2MxNTI0ODIxNjlkODA5YmU5YjFlYWI3MWRjZjY0ZDc0MDVmNzY=",
+    "commit": {
+      "author": {
+        "name": "Scott Fleischman",
+        "email": "scott-fleischman@users.noreply.github.com",
+        "date": "2018-10-29T23:58:08Z"
+      },
+      "committer": {
+        "name": "Scott Fleischman",
+        "email": "scott-fleischman@users.noreply.github.com",
+        "date": "2018-10-29T23:58:08Z"
+      },
+      "message": "Add github submodule",
+      "tree": {
+        "sha": "86ffdfe76571da2031fb76069a8c67b646f9cec8",
+        "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/git/trees/86ffdfe76571da2031fb76069a8c67b646f9cec8"
+      },
+      "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/git/commits/d03c152482169d809be9b1eab71dcf64d7405f76",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/commits/d03c152482169d809be9b1eab71dcf64d7405f76",
+    "html_url": "https://github.com/scott-fleischman/repo-remove-submodule/commit/d03c152482169d809be9b1eab71dcf64d7405f76",
+    "comments_url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/commits/d03c152482169d809be9b1eab71dcf64d7405f76/comments",
+    "author": {
+      "login": "scott-fleischman",
+      "id": 5268284,
+      "node_id": "MDQ6VXNlcjUyNjgyODQ=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5268284?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/scott-fleischman",
+      "html_url": "https://github.com/scott-fleischman",
+      "followers_url": "https://api.github.com/users/scott-fleischman/followers",
+      "following_url": "https://api.github.com/users/scott-fleischman/following{/other_user}",
+      "gists_url": "https://api.github.com/users/scott-fleischman/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/scott-fleischman/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/scott-fleischman/subscriptions",
+      "organizations_url": "https://api.github.com/users/scott-fleischman/orgs",
+      "repos_url": "https://api.github.com/users/scott-fleischman/repos",
+      "events_url": "https://api.github.com/users/scott-fleischman/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/scott-fleischman/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "scott-fleischman",
+      "id": 5268284,
+      "node_id": "MDQ6VXNlcjUyNjgyODQ=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5268284?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/scott-fleischman",
+      "html_url": "https://github.com/scott-fleischman",
+      "followers_url": "https://api.github.com/users/scott-fleischman/followers",
+      "following_url": "https://api.github.com/users/scott-fleischman/following{/other_user}",
+      "gists_url": "https://api.github.com/users/scott-fleischman/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/scott-fleischman/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/scott-fleischman/subscriptions",
+      "organizations_url": "https://api.github.com/users/scott-fleischman/orgs",
+      "repos_url": "https://api.github.com/users/scott-fleischman/repos",
+      "events_url": "https://api.github.com/users/scott-fleischman/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/scott-fleischman/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e19a41006efcba7dc5ed6025f28cf4dbdec049a8",
+        "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/commits/e19a41006efcba7dc5ed6025f28cf4dbdec049a8",
+        "html_url": "https://github.com/scott-fleischman/repo-remove-submodule/commit/e19a41006efcba7dc5ed6025f28cf4dbdec049a8"
+      }
+    ]
+  },
+  "merge_base_commit": {
+    "sha": "d03c152482169d809be9b1eab71dcf64d7405f76",
+    "node_id": "MDY6Q29tbWl0MTU1Mjk3NDQ3OmQwM2MxNTI0ODIxNjlkODA5YmU5YjFlYWI3MWRjZjY0ZDc0MDVmNzY=",
+    "commit": {
+      "author": {
+        "name": "Scott Fleischman",
+        "email": "scott-fleischman@users.noreply.github.com",
+        "date": "2018-10-29T23:58:08Z"
+      },
+      "committer": {
+        "name": "Scott Fleischman",
+        "email": "scott-fleischman@users.noreply.github.com",
+        "date": "2018-10-29T23:58:08Z"
+      },
+      "message": "Add github submodule",
+      "tree": {
+        "sha": "86ffdfe76571da2031fb76069a8c67b646f9cec8",
+        "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/git/trees/86ffdfe76571da2031fb76069a8c67b646f9cec8"
+      },
+      "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/git/commits/d03c152482169d809be9b1eab71dcf64d7405f76",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/commits/d03c152482169d809be9b1eab71dcf64d7405f76",
+    "html_url": "https://github.com/scott-fleischman/repo-remove-submodule/commit/d03c152482169d809be9b1eab71dcf64d7405f76",
+    "comments_url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/commits/d03c152482169d809be9b1eab71dcf64d7405f76/comments",
+    "author": {
+      "login": "scott-fleischman",
+      "id": 5268284,
+      "node_id": "MDQ6VXNlcjUyNjgyODQ=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5268284?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/scott-fleischman",
+      "html_url": "https://github.com/scott-fleischman",
+      "followers_url": "https://api.github.com/users/scott-fleischman/followers",
+      "following_url": "https://api.github.com/users/scott-fleischman/following{/other_user}",
+      "gists_url": "https://api.github.com/users/scott-fleischman/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/scott-fleischman/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/scott-fleischman/subscriptions",
+      "organizations_url": "https://api.github.com/users/scott-fleischman/orgs",
+      "repos_url": "https://api.github.com/users/scott-fleischman/repos",
+      "events_url": "https://api.github.com/users/scott-fleischman/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/scott-fleischman/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "scott-fleischman",
+      "id": 5268284,
+      "node_id": "MDQ6VXNlcjUyNjgyODQ=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5268284?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/scott-fleischman",
+      "html_url": "https://github.com/scott-fleischman",
+      "followers_url": "https://api.github.com/users/scott-fleischman/followers",
+      "following_url": "https://api.github.com/users/scott-fleischman/following{/other_user}",
+      "gists_url": "https://api.github.com/users/scott-fleischman/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/scott-fleischman/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/scott-fleischman/subscriptions",
+      "organizations_url": "https://api.github.com/users/scott-fleischman/orgs",
+      "repos_url": "https://api.github.com/users/scott-fleischman/repos",
+      "events_url": "https://api.github.com/users/scott-fleischman/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/scott-fleischman/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e19a41006efcba7dc5ed6025f28cf4dbdec049a8",
+        "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/commits/e19a41006efcba7dc5ed6025f28cf4dbdec049a8",
+        "html_url": "https://github.com/scott-fleischman/repo-remove-submodule/commit/e19a41006efcba7dc5ed6025f28cf4dbdec049a8"
+      }
+    ]
+  },
+  "status": "ahead",
+  "ahead_by": 2,
+  "behind_by": 0,
+  "total_commits": 2,
+  "commits": [
+    {
+      "sha": "290d13ce1fea80e795988454667ed9862c52afb0",
+      "node_id": "MDY6Q29tbWl0MTU1Mjk3NDQ3OjI5MGQxM2NlMWZlYTgwZTc5NTk4ODQ1NDY2N2VkOTg2MmM1MmFmYjA=",
+      "commit": {
+        "author": {
+          "name": "Scott Fleischman",
+          "email": "scott-fleischman@users.noreply.github.com",
+          "date": "2018-10-30T00:01:42Z"
+        },
+        "committer": {
+          "name": "Scott Fleischman",
+          "email": "scott-fleischman@users.noreply.github.com",
+          "date": "2018-10-30T00:01:42Z"
+        },
+        "message": "Remove github submodule",
+        "tree": {
+          "sha": "179f9007c6f5e313dfa2cf7fdc053f42e4878533",
+          "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/git/trees/179f9007c6f5e313dfa2cf7fdc053f42e4878533"
+        },
+        "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/git/commits/290d13ce1fea80e795988454667ed9862c52afb0",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/commits/290d13ce1fea80e795988454667ed9862c52afb0",
+      "html_url": "https://github.com/scott-fleischman/repo-remove-submodule/commit/290d13ce1fea80e795988454667ed9862c52afb0",
+      "comments_url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/commits/290d13ce1fea80e795988454667ed9862c52afb0/comments",
+      "author": {
+        "login": "scott-fleischman",
+        "id": 5268284,
+        "node_id": "MDQ6VXNlcjUyNjgyODQ=",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/5268284?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/scott-fleischman",
+        "html_url": "https://github.com/scott-fleischman",
+        "followers_url": "https://api.github.com/users/scott-fleischman/followers",
+        "following_url": "https://api.github.com/users/scott-fleischman/following{/other_user}",
+        "gists_url": "https://api.github.com/users/scott-fleischman/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/scott-fleischman/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/scott-fleischman/subscriptions",
+        "organizations_url": "https://api.github.com/users/scott-fleischman/orgs",
+        "repos_url": "https://api.github.com/users/scott-fleischman/repos",
+        "events_url": "https://api.github.com/users/scott-fleischman/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/scott-fleischman/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "scott-fleischman",
+        "id": 5268284,
+        "node_id": "MDQ6VXNlcjUyNjgyODQ=",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/5268284?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/scott-fleischman",
+        "html_url": "https://github.com/scott-fleischman",
+        "followers_url": "https://api.github.com/users/scott-fleischman/followers",
+        "following_url": "https://api.github.com/users/scott-fleischman/following{/other_user}",
+        "gists_url": "https://api.github.com/users/scott-fleischman/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/scott-fleischman/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/scott-fleischman/subscriptions",
+        "organizations_url": "https://api.github.com/users/scott-fleischman/orgs",
+        "repos_url": "https://api.github.com/users/scott-fleischman/repos",
+        "events_url": "https://api.github.com/users/scott-fleischman/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/scott-fleischman/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "d03c152482169d809be9b1eab71dcf64d7405f76",
+          "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/commits/d03c152482169d809be9b1eab71dcf64d7405f76",
+          "html_url": "https://github.com/scott-fleischman/repo-remove-submodule/commit/d03c152482169d809be9b1eab71dcf64d7405f76"
+        }
+      ]
+    },
+    {
+      "sha": "42cfd732b20cd093534f246e630b309186eb485d",
+      "node_id": "MDY6Q29tbWl0MTU1Mjk3NDQ3OjQyY2ZkNzMyYjIwY2QwOTM1MzRmMjQ2ZTYzMGIzMDkxODZlYjQ4NWQ=",
+      "commit": {
+        "author": {
+          "name": "Scott Fleischman",
+          "email": "scott-fleischman@users.noreply.github.com",
+          "date": "2018-10-30T00:09:58Z"
+        },
+        "committer": {
+          "name": "Scott Fleischman",
+          "email": "scott-fleischman@users.noreply.github.com",
+          "date": "2018-10-30T00:09:58Z"
+        },
+        "message": "Add clarification.",
+        "tree": {
+          "sha": "9f65799684f7185f2f39b0ca10c219e644c22533",
+          "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/git/trees/9f65799684f7185f2f39b0ca10c219e644c22533"
+        },
+        "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/git/commits/42cfd732b20cd093534f246e630b309186eb485d",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/commits/42cfd732b20cd093534f246e630b309186eb485d",
+      "html_url": "https://github.com/scott-fleischman/repo-remove-submodule/commit/42cfd732b20cd093534f246e630b309186eb485d",
+      "comments_url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/commits/42cfd732b20cd093534f246e630b309186eb485d/comments",
+      "author": {
+        "login": "scott-fleischman",
+        "id": 5268284,
+        "node_id": "MDQ6VXNlcjUyNjgyODQ=",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/5268284?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/scott-fleischman",
+        "html_url": "https://github.com/scott-fleischman",
+        "followers_url": "https://api.github.com/users/scott-fleischman/followers",
+        "following_url": "https://api.github.com/users/scott-fleischman/following{/other_user}",
+        "gists_url": "https://api.github.com/users/scott-fleischman/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/scott-fleischman/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/scott-fleischman/subscriptions",
+        "organizations_url": "https://api.github.com/users/scott-fleischman/orgs",
+        "repos_url": "https://api.github.com/users/scott-fleischman/repos",
+        "events_url": "https://api.github.com/users/scott-fleischman/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/scott-fleischman/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "scott-fleischman",
+        "id": 5268284,
+        "node_id": "MDQ6VXNlcjUyNjgyODQ=",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/5268284?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/scott-fleischman",
+        "html_url": "https://github.com/scott-fleischman",
+        "followers_url": "https://api.github.com/users/scott-fleischman/followers",
+        "following_url": "https://api.github.com/users/scott-fleischman/following{/other_user}",
+        "gists_url": "https://api.github.com/users/scott-fleischman/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/scott-fleischman/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/scott-fleischman/subscriptions",
+        "organizations_url": "https://api.github.com/users/scott-fleischman/orgs",
+        "repos_url": "https://api.github.com/users/scott-fleischman/repos",
+        "events_url": "https://api.github.com/users/scott-fleischman/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/scott-fleischman/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "290d13ce1fea80e795988454667ed9862c52afb0",
+          "url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/commits/290d13ce1fea80e795988454667ed9862c52afb0",
+          "html_url": "https://github.com/scott-fleischman/repo-remove-submodule/commit/290d13ce1fea80e795988454667ed9862c52afb0"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "sha": "9ee8c0a16275ed72cc2102684d2f2dc53aeccb69",
+      "filename": ".gitmodules",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 3,
+      "changes": 3,
+      "blob_url": "https://github.com/scott-fleischman/repo-remove-submodule/blob/d03c152482169d809be9b1eab71dcf64d7405f76/.gitmodules",
+      "raw_url": "https://github.com/scott-fleischman/repo-remove-submodule/raw/d03c152482169d809be9b1eab71dcf64d7405f76/.gitmodules",
+      "contents_url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/contents/.gitmodules?ref=d03c152482169d809be9b1eab71dcf64d7405f76",
+      "patch": "@@ -1,3 +0,0 @@\n-[submodule \"github\"]\n-\tpath = github\n-\turl = git@github.com:phadej/github.git"
+    },
+    {
+      "sha": "3d926c7dbc568bf025528dad157bff6ec0230736",
+      "filename": "README.md",
+      "status": "modified",
+      "additions": 6,
+      "deletions": 0,
+      "changes": 6,
+      "blob_url": "https://github.com/scott-fleischman/repo-remove-submodule/blob/42cfd732b20cd093534f246e630b309186eb485d/README.md",
+      "raw_url": "https://github.com/scott-fleischman/repo-remove-submodule/raw/42cfd732b20cd093534f246e630b309186eb485d/README.md",
+      "contents_url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/contents/README.md?ref=42cfd732b20cd093534f246e630b309186eb485d",
+      "patch": "@@ -1,3 +1,9 @@\n # repo-remove-submodule\n \n Test the GitHub API via the Haskell `github` library for repositories that have removed submodules.\n+\n+In particular, a couple fields in the files array have null fields which are normally not-null:\n+```\n+\"blob_url\": null,\n+\"raw_url\": null,\n+```"
+    },
+    {
+      "sha": "66eb08c837c20a35ce11b5f719d0d749a087c032",
+      "filename": "github",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 1,
+      "changes": 1,
+      "blob_url": null,
+      "raw_url": null,
+      "contents_url": "https://api.github.com/repos/scott-fleischman/repo-remove-submodule/contents/github?ref=d03c152482169d809be9b1eab71dcf64d7405f76",
+      "patch": "@@ -1 +0,0 @@\n-Subproject commit 66eb08c837c20a35ce11b5f719d0d749a087c032"
+    }
+  ]
+}
